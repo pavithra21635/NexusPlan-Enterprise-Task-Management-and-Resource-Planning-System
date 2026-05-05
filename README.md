@@ -1,6 +1,6 @@
-# 📝 Taskly Personal Task Manager
+# 📝 NexusPlan - Enterprise Task Management & Resource Planning System
 
-A web-based personal task management system built with **ASP.NET Core MVC**, allowing users to create, edit, view, and organize tasks visually by priority and status.
+A robust enterprise task management system built on the ASP.NET Core MVC framework. This application implements a structured Model-View-Controller architecture to manage complex task lifecycles and resource allocation. Developed with a focus on clean separation of concerns, utilizing C#, Entity Framework, and SQL Server for high-performance data persistence and a responsive JavaScript-driven frontend.
 
 ---
 
